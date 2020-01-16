@@ -1,0 +1,27 @@
+* {
+    outline: none;
+    border: none;
+    background: none;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-size: inherit;
+}
+
+body {
+    font-family: var(--font-family-main);
+    font-size: var(--font-size-m);
+    line-height: var(--line-size-m);
+}
+
+h1 {
+    font-weight: 400;
+}
+
+input,
+button,
+a,
+textarea {
+    cursor: pointer;
+}
