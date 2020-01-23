@@ -1,7 +1,8 @@
 {
     "env": {
         "browser": true,
-        "es6": true
+        "es6": true,
+        "node": 1
     },
     "parserOptions": {
         "ecmaVersion": 2019,
@@ -15,5 +16,9 @@
             "processor": "svelte3/svelte3"
         }
     ],
-    "rules": {}
+    "rules": {
+        "no-console": "error",
+        "no-alert": "error",
+        "quotes": [2, "single", { "avoidEscape": true }]
+    }
 }
