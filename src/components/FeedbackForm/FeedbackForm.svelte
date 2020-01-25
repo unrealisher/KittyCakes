@@ -32,7 +32,7 @@
 </style>
 
 <script>
-    import Input from './Input.svelte';
+    import Input from '../Input/Input.svelte';
 
     let obj = {};
 
