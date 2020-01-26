@@ -1,6 +1,31 @@
 :root{
     /* цвета */
     --main-background: cyan;
+    --color1: BD007B;
+    --color2: 4B126C;
 
     /* типографика */
+    --logo_font: {
+        font-family: Savoye LET;
+        font-style: italic;
+        font-size: 48px;
+        line-height: 57px;
+        color: white;
+    }
+
+    --main-text: {
+        font-family: Rubik;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 36px;
+        line-height: 43px;
+    }
+
+    --sub-text: {
+        font-family: Rubik;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 17px;
+    }
 }
