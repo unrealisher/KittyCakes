@@ -1,3 +1,7 @@
+# Информация для разработки
+
+[Ссылка на сайт](http://kittycakes.herokuapp.com)
+
 # sapper-template
 
 The default [Sapper](https://github.com/sveltejs/sapper) template, available for Rollup and webpack.

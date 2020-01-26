@@ -2,6 +2,10 @@
   "name": "TODO",
   "description": "TODO",
   "version": "0.0.1",
+  "engines": {
+    "node": "12.14.1",
+    "npm": "6.13.4"
+  },
   "scripts": {
     "dev": "sapper dev",
     "build": "sapper build --legacy",
