@@ -5,27 +5,10 @@
     --color2: 4B126C;
 
     /* типографика */
-    --logo_font: {
-        font-family: Savoye LET;
-        font-style: italic;
-        font-size: 48px;
-        line-height: 57px;
-        color: white;
-    }
+    --logo_font: 48px 57px 300 italic Savoye LET;
 
-    --main-text: {
-        font-family: Rubik;
-        font-style: normal;
-        font-weight: bold;
-        font-size: 36px;
-        line-height: 43px;
-    }
+    --main-text: 36px 43px bold normal Rubik;
 
-    --sub-text: {
-        font-family: Rubik;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 14px;
-        line-height: 17px;
-    }
+    --sub-text: 14px 17px normal normal Rubik;
+  
 }
