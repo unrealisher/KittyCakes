@@ -1,8 +1,6 @@
 :root{
-    /* цвета */
-    --main-background: cyan;
-    --color1: BD007B;
-    --color2: 4B126C;
+    --main-color: BD007B;
+    --second-color: 4B126C;
 
     /* типографика */
     --logo-font: 48px 57px 300 italic Savoye LET;
