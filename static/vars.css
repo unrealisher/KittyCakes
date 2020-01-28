@@ -1,12 +1,12 @@
 :root{
-    --main-color: BD007B;
-    --second-color: 4B126C;
+    --main-color: #BD007B;
+    --second-color: #4B126C;
 
     /* типографика */
-    --logo-font: 48px 57px 300 italic Savoye LET;
+    --logo-font: 48px 57px 300 italic "Savoye LET";
 
-    --main-text: 36px 43px bold normal Rubik;
+    --main-text: 36px 43px bold normal "Rubik";
 
-    --sub-text: 14px 17px normal normal Rubik;
+    --sub-text: 14px 17px normal normal "Rubik";
   
 }
