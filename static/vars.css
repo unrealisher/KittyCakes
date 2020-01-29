@@ -1,6 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik:400,700&display=swap&subset=cyrillic');
+
 :root{
     /* цвета */
-    --main-background: cyan;
+    --background-main: #BD007B;
+    --background-secondary: #4B126C;
+
+    --color-magenta: #F70F71;
+    --color-light-blue: #04AEDE;
+    --color-grey: #9EA2AE;
+    --color-light-grey: #E6E7EB;
+    --color-black: #1E1D23;
+    --color-green: #74B048;
 
     /* типографика */
+    --font-family-main: Rubik, sans-serif, Arial;
+
+    --font-size-s: 13px;
+    --line-size-s: 16px;
+
+    --font-size-m: 18px;
+    --line-size-m: 24px;
+
+    --font-size-l: 28px;
+    --line-size-l: 32px;
 }
