@@ -13,5 +13,5 @@
 <FeedbackForm />
 
 <script>
-	import FeedbackForm from '../components/FeedbackForm.svelte';
+	import FeedbackForm from '../components/FeedbackForm/FeedbackForm.svelte';
 </script>
