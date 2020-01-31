@@ -23,4 +23,20 @@
 
     --font-size-l: 28px;
     --line-size-l: 32px;
+
+    /* паддинги */
+    --padding-size-xs: 4px;
+
+    /* скругления */
+    --border-radius-xs: 4px;
+
+    /* анимации */
+    --time-xs: .1s;
+    --time-s: .2s;
+    --time-m: .3s;
+    --time-l: .5s;
+
+    --ease-default: ease-in-out;
+    --ease-hide: ease-in;
+    --ease-show: ease-out;
 }
