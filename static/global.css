@@ -1,6 +1,10 @@
-body {
-    background: var(--color-light-grey);
+* {
+    outline: none;
+    border: none;
+    background: none;
+}
 
+body {
     font-family: var(--font-family-main);
     font-size: var(--font-size-m);
     line-height: var(--line-size-m);
@@ -8,4 +12,11 @@ body {
 
 h1 {
     font-weight: 400;
+}
+
+input,
+button,
+a,
+textarea {
+    cursor: pointer;
 }
