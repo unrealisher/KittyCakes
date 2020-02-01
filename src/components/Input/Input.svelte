@@ -14,7 +14,7 @@
     }
 
     .input {
-        padding: var(--padding-size-xs);
+        padding: var(--gap-size-xs);
         border-radius: var(--border-radius-xs);
 
         border: 1px solid var(--color-light-grey);
