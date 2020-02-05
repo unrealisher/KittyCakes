@@ -17,6 +17,7 @@
         padding: var(--gap-size-xs);
         border-radius: var(--border-radius-xs);
 
+        background: white;
         border: 1px solid var(--color-light-grey);
 
         transition: var(--time-s) var(--ease-default);

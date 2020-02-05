@@ -2,6 +2,10 @@
 	<title>KittyCakes</title>
 </svelte:head>
 
-<section class='content'>
+<Page>
 	<h1>KittyCakes</h1>
-</section>
+</Page>
+
+<script>
+	import Page from '../components/Page/Page.svelte';
+</script>
